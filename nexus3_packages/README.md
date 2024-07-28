@@ -1,8 +1,9 @@
 # Nexus 3 Packages
 
-| Name | Author(s) | Description | Short instructions |
-| alizachaea | Alizais | convenience scripts | autogetgold on |
-| harvesting 3.1 | unknown | harvest plants | use the numpad dot to harvest | 
+| Name           | Author(s) | Description         | Short instructions |
+|----------------|-----------|---------------------|--------------------|
+| alizachaea     | Alizais   | convenience scripts | autogetgold on     |
+| harvesting 3.1 | unknown   | harvest plants      | use the numpad dot to harvest | 
 
 ## alizachaea
 
