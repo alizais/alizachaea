@@ -3,7 +3,7 @@
 | Name           | Author(s) | Description         | Short instructions |
 |----------------|-----------|---------------------|--------------------|
 | alizachaea     | Alizais   | convenience scripts | autogetgold on     |
-| harvesting 3.1 | unknown   | harvest plants      | use the numpad dot to harvest | 
+| harvesting 3.1 | Aldare    | harvest plants      | use the numpad dot to harvest | 
 
 ## alizachaea
 
@@ -14,6 +14,6 @@ Contains convenience scripts for
 
 ## harvesting 3.1
 
-Author: unknown. Updated for Nexus 3 by Alizais.
+Author: Aldare. Updated for Nexus 3 by Alizais.
 
 Use the numpad dot keybinding to harvest plants in the current room you're standing in.
