@@ -3,7 +3,7 @@
 | Name           | Author(s) | Description         | Short instructions | Download Package |
 |----------------|-----------|---------------------|--------------------|------------------|
 | [alizachaea](#alizachaea)   | [Alizais](https://github.com/alizais)   | convenience scripts | autogetgold on | [alizachaea.nxs](alizachaea.nxs) |
-| [harvesting 3.1](#harvesting-3.1) | Aldare    | harvest plants      | use the numpad dot to harvest | [harvesting-3.1.nxs](harvesting-3.1.nxs) |
+| [harvesting 3.1](#harvesting-31) | Aldare    | harvest plants      | use the numpad dot to harvest | [harvesting-3.1.nxs](harvesting-3.1.nxs) |
 
 ## alizachaea
 
