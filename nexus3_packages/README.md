@@ -13,7 +13,6 @@ Contains convenience scripts for
 
 ## harvesting 3.1
 
-Author: unknown
-Updated for Nexus 3 by Alizais
+Author: unknown. Updated for Nexus 3 by Alizais.
 
 Use the numpad dot keybinding to harvest plants in the current room you're standing in.
