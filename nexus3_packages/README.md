@@ -11,6 +11,7 @@ Author: Alizais
 
 Contains convenience scripts for
 - automatically picking up gold in room if no one else can be seen in the room (`autogetgold on|off`)
+- counting how many times a seamonster has been hit by wardiscs and darts
 
 ## harvesting 3.1
 
