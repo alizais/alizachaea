@@ -2,8 +2,8 @@
 
 | Name           | Author(s) | Description         | Short instructions | Download Package |
 |----------------|-----------|---------------------|--------------------|------------------|
-| [alizachaea 1.2](#alizachaea)   | [Alizais](https://github.com/alizais)   | convenience and seafaring | aa help | [alizachaea.nxs](https://github.com/alizais/alizachaea/raw/main/nexus3_packages/alizachaea.nxs) |
-| [harvesting 3.1](#harvesting-31) | Aldare    | harvest plants      | use the numpad dot to harvest | [harvesting-3.1.nxs](https://github.com/alizais/alizachaea/raw/main/nexus3_packages/alizachaea.nxs) |
+| [alizachaea 1.2](#alizachaea-12)   | [Alizais](https://github.com/alizais)   | convenience and seafaring | aa help | [alizachaea.nxs](https://github.com/alizais/alizachaea/releases/download/1.2/alizachaea.nxs) |
+| [harvesting 3.1](#harvesting-31) | Aldare    | harvest plants      | use the numpad dot to harvest | [harvesting-3.1.nxs](https://github.com/alizais/alizachaea/blob/main/nexus3_packages/harvesting-3.1.nxs) |
 
 ## alizachaea 1.2
 
